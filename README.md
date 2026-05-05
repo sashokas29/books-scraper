@@ -52,7 +52,7 @@ HOW TO RUN
 bash:
 
 pip install requests beautifulsoup4 pandas openpyxl
-python first_pars.py
+python scraper.py
 
 
 ---
